@@ -61,11 +61,11 @@ With hands-on experience in **EDA, Machine Learning, and Data Visualization**, I
 ---
 
 ## 🌐 Connect With Me  
-
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aman--pal-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Am4npal)
 [![Email](https://img.shields.io/badge/Email-amanpal%40gmail.com-red?logo=gmail&logoColor=white)](mailto:am4npal@gmail.com)
  
-
+</div>
 ---
 
 ✨ *Always curious, always learning – one dataset at a time!*  
