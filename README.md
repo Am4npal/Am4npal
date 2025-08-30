@@ -64,7 +64,7 @@ With hands-on experience in **EDA, Machine Learning, and Data Visualization**, I
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aman--pal-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Am4npal)
-[![Email](https://img.shields.io/badge/Email-amanpal%40gmail.com-red?logo=gmail&logoColor=white)](mailto:am4npal@gmail.com)
+[![Email](https://img.shields.io/badge/Email-am4npal%40gmail.com-red?logo=gmail&logoColor=white)](mailto:am4npal@gmail.com)
  
 </div>
 ---
