@@ -61,8 +61,10 @@ With hands-on experience in **EDA, Machine Learning, and Data Visualization**, I
 ---
 
 ## 🌐 Connect With Me  
-📧 Email: [am4npal@gmail.com]    
-💻 GitHub: [https://github.com/Am4npal](https://github.com/Am4npal)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aman--pal-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Am4npal)
+[![Email](https://img.shields.io/badge/Email-amanpal%40gmail.com-red?logo=gmail&logoColor=white)](mailto:am4npal@gmail.com)
+ 
 
 ---
 
